@@ -1,2 +1,2 @@
-# BMI_Calculator
-Building a BMI Calculator in Python
+# Projects
+A collection of my personal projects
